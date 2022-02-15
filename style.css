@@ -17,6 +17,7 @@ header{min-height: 70px;
 .title-button{background-color: white;
     margin-top: 3%;
     width: 80%;
+    border-radius: 3px;
 }
 main{display:flex;
     justify-content: center;
@@ -24,31 +25,105 @@ main{display:flex;
     flex-flow: column;
     
 }
-.button{padding: 10px;
-    border-radius: 10px;
-    
-    
-    
+.button{padding: 23px ;
+    border-radius: 3px;
+    text-decoration: none;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px; 
+    font-size: 13px;
+    padding: 4px;   
 }
-.blu{background-color:blue;
+.blu{ background-color:lightskyblue;
     color: white;
-    padding: 4px;;
+    padding: 4px;
+    
+    
     
     
 }
 .white{background-color: white;
     color:lightgrey;
-    padding: 4px;;
+    padding: 4px;
+    margin-left: 10px;
+    border:1px solid lightgrey;
     
     
 }
 .title-button2{
-    margin: 1%;
+    margin: 0.5%;
     justify-content: left;
     align-items:flex-start;
     width: 80%;
     background-color: white;
-    
-    
-    
+    line-height: 15px;
+    display: flex;
+    flex-flow: column;
+    border-radius: 3px;
 }
+   
+
+.titolo{ font-size: 20px;
+    
+    margin-left: 50px;
+    font-weight: 700;
+    padding: 6px;
+    
+    
+
+
+
+}
+.sottotitolo{ font-size: 13px;
+    
+    margin-left: 50px;
+    padding: 13px;
+    
+
+
+
+}
+.button2{
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    font-size:10px;
+    padding:7px;
+    margin-left:2px; 
+}
+.editorial{
+    background-color:lightskyblue;
+    color:white;
+   
+}
+.margin{
+    margin-top:30px;
+}
+.goals{
+background-color: purple;
+color:white;
+}
+.recruting{
+background-color: greenyellow;
+color:white;
+}
+.mobile{
+background-color: orange;
+color:white;
+}
+.website{
+background-color: fuchsia;
+color:white;
+}
+.sales{
+background-color: lightgreen;
+color:white;
+}
+    
+   
+
+    
+    
+    
+ 
