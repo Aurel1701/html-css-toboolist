@@ -1,0 +1,54 @@
+body{margin: 0;
+    background-color:lightblue;
+}
+.logo-img{margin: 0;
+    height: 100px;
+    padding: 2px;
+}
+header{min-height: 70px;
+    margin: 0;
+    background-color: white;
+    display:flex ;
+   align-items: center;
+}
+.title{font-size: 40px;
+    font-weight: 700;
+}
+.title-button{background-color: white;
+    margin-top: 3%;
+    width: 80%;
+}
+main{display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    
+}
+.button{padding: 10px;
+    border-radius: 10px;
+    
+    
+    
+}
+.blu{background-color:blue;
+    color: white;
+    padding: 4px;;
+    
+    
+}
+.white{background-color: white;
+    color:lightgrey;
+    padding: 4px;;
+    
+    
+}
+.title-button2{
+    margin: 1%;
+    justify-content: left;
+    align-items:flex-start;
+    width: 80%;
+    background-color: white;
+    
+    
+    
+}
